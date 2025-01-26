@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: movie-director-service
+
+movie-api:
+  base-url: https://eron-movies.wiremockapi.cloud/api/movies/search
